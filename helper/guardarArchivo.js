@@ -17,5 +17,5 @@ const leerDB = () => {
     //console.log(data);
     return data;
 }
-// exporto las clases
+// exporto las clases de todos los metodos creados
 module.exports = { guardarDB, leerDB };
